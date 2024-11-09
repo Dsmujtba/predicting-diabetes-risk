@@ -59,5 +59,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-[Your Name]
-[Your Email]
+Almujtba Suliman
+almujtba.analyst98@gmail.com
+
