@@ -25,7 +25,6 @@ This project delivers a robust machine learning model for predicting type 2 diab
 * **NHANES Dataset:** The project leverages the comprehensive NHANES dataset, a publicly available resource from the Centers for Disease Control and Prevention (CDC), containing a wealth of health and demographic information.
 * **Machine Learning Techniques:**  The model employs state-of-the-art machine learning algorithms, including:
     * **Logistic Regression:**  Providing a baseline model with interpretable coefficients.
-    * **Random Forests:**  Capturing complex non-linear relationships and interactions between predictors.
     * **Generalized Estimating Equations (GEE):**  Accounting for potential correlations within clustered data and providing robust statistical inference.
 
 ## Impact and Potential Applications
